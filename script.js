@@ -42,7 +42,7 @@ if (result == true){
 		trueAnswer ++
 	}
 	alert("Правельных ответов: " + trueAnswer )
-	alert("Вы заработали " + points + " очков")
+	alert("Поздравляю , вы заработали " + points + " очков")
 }else{
 	alert("Game over :)")
 }
