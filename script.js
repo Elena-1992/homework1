@@ -1,5 +1,5 @@
 alert("Hello :)")
-var result = confirm("Do you want to start the game?")
+var result = confirm("Start game?")
 if (result == true){
 	var name = prompt("Your name ?", '')
 	var surname = prompt("Your surname ?", '')
