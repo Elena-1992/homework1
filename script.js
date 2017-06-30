@@ -21,22 +21,22 @@ if (result == true){
 		points += (num * 2) ** 2 // 4
 		trueAnswer ++
 	}
-	num++;
+	num++
 	if (question2 == answer2) {
 		points += (num * 2) ** 2 // 16
 		trueAnswer ++
 	}
-	num++;
+	num++
 	if (question3 == answer3) {
 		points += (num * 2) ** 2 // 36
 		trueAnswer ++
 	}
-	num++;
+	num++
 	if (question4 == answer4) {
 		points += (num * 2) ** 2 //64
 		trueAnswer ++
 	}
-	num++;
+	num++
 	if (question5 == answer5) {
 		points += (num * 2) ** 2 // 100
 		trueAnswer ++
